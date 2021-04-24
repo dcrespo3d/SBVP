@@ -1,7 +1,7 @@
 # SBVP
 My Degree Final Project, presented in 1997: An Image Processing Program for MS-DOS.
 
-You can [try it online](https://dcrespo3d.github.io/SBVP/index.html), thanks to the online MS-DOS emulator [JS-DOS](https://js-dos.com/).
+You can [try it online](https://dcrespo3d.github.io/SBVP/), thanks to the online MS-DOS emulator [JS-DOS](https://js-dos.com/).
 
 Project features:
 - Runs on MS-Dos 6 or 7 (Windows 95).
@@ -18,4 +18,4 @@ Project features:
 
 This was my first software project and it's poorly organized and implemented. I have learned a lot since those days. But I was proud of the result back in the day, it was my first big project and I learned a lot about software development (specially, things NOT to do :)
 
-[![MinZX](./docs/sbvp.png)](https://dcrespo3d.github.io/SBVP/index.html)
+[![MinZX](./docs/sbvp.png)](https://dcrespo3d.github.io/SBVP/)
