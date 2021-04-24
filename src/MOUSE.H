@@ -1,0 +1,11 @@
+int mouseinstalled(void);
+void muestra_cursor(void);
+void oculta_cursor(void);
+void leeraton(int *x,int *y,int *button);
+void esperar_soltar(void);
+void cursor_flecha(void);
+void cursor_reloj(void);
+void SetXRange(int nMinX,int nMaxX);
+void SetYRange(int nMinY,int nMaxY);
+void LiberarTecla(void);
+int TeclaPulsada(void);
