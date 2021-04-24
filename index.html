@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>SBVP on JS-DOS</title>
     <script src="./js-dos/js-dos.js"></script>
 </head>
 <body>
     <style></style>
     <canvas id="jsdos"></canvas>
     <button style="position: absolute; right: 1em; top: 1em;" onclick="ci.fullscreen()">Fullscreen</button>
-    <div style="position: absolute; right: 1em; top: 3em;">Click to<br/>capture cursor;<br/>CTRL+F10 to<br/>release cursor</button>
+    <div style="position: absolute; right: 1em; top: 3em;">Click to<br/>capture cursor;<br/>CTRL+F10 to<br/>release cursor</div>
+    <div style="position: absolute; right: 1em; top: 9em;"><a href="https://github.com/dcrespo3d/SBVP">GitHub Repo</a></div>
     <script>
         Dos(document.getElementById("jsdos"), { 
             wdosboxUrl: "./js-dos/wdosbox.js",
